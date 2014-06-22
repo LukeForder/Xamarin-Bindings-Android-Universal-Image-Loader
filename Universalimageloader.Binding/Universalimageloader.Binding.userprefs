@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniversalImageLoader\Transforms\Metadata.xml">
+    <Files>
+      <File FileName="UniversalImageLoader\Transforms\Metadata.xml" Line="5" Column="23" />
+      <File FileName="UniversalImageLoader\Additions\LruMemoryCache.cs" Line="12" Column="36" />
+      <File FileName="UniversalImageLoader\Additions\BaseMemoryCache.cs" Line="14" Column="45" />
+      <File FileName="UniversalImageLoader\Additions\FuzzyKeyMemoryCache.cs" Line="8" Column="67" />
+      <File FileName="UniversalImageLoader\Additions\LimitedAgeMemoryCache.cs" Line="10" Column="53" />
+      <File FileName="UniversalImageLoader\Additions\LinkedBlockingDeque.cs" Line="15" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

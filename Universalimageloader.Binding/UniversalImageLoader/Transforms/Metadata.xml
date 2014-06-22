@@ -1,0 +1,8 @@
+﻿<!-- https://forums.xamarin.com/discussion/1156/adding-android-universal-image-loader-library -->
+<metadata>
+	<!--/<remove-node path="/api/package[@name='com.nostra13.universalimageloader.cache.disc.impl.ext.DiskLruCache']" />-->
+
+	<!-- Make the internal class public -->
+	<attr path="/api/package[@name='com.nostra13.universalimageloader.cache.disc.impl.ext']/class[@name='DiskLruCache']" name="visibility">public</attr>
+</metadata>
+
