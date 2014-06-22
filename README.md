@@ -1,7 +1,7 @@
 Xamarin-Bindings-Android-Universal-Image-Loader
 ===============================================
 
-C# bindings for the [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) library
+C# bindings for the [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) library (version 1.9.2)
 
 ## License
 
