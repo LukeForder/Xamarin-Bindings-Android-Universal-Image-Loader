@@ -1,7 +1,15 @@
 Xamarin-Bindings-Android-Universal-Image-Loader
 ===============================================
 
-C# bindings for the [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) library (version 1.9.2)
+C# bindings for the [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) library (version 1.9.4)
+
+## Nuget Package
+
+```text
+Install-Package Xamarin.Bindings.UniversalImageLoader 
+```
+
+[See it in action](https://github.com/LukeForder/Xamarin-Ports-MultiImagePicker)
 
 ## License
 
