@@ -1,6 +1,6 @@
 ﻿namespace Com.Nostra13.Universalimageloader.Core.Assist.Deque
 {
-    partial class LinkedBlockingDeque
+    public partial class LinkedBlockingDeque
     {
         partial class DescendingItr
         {
