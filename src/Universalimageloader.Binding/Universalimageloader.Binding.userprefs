@@ -1,13 +1,9 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UniversalImageLoader\Transforms\Metadata.xml">
+﻿<Properties GitUserInfo="UsingMD" StartupItem="UniversalImageLoader\UniversalImageLoader.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniversalImageLoader\package.builder.json">
     <Files>
-      <File FileName="UniversalImageLoader\Transforms\Metadata.xml" Line="5" Column="23" />
-      <File FileName="UniversalImageLoader\Additions\LruMemoryCache.cs" Line="1" Column="1" />
-      <File FileName="UniversalImageLoader\Additions\BaseMemoryCache.cs" Line="1" Column="1" />
-      <File FileName="UniversalImageLoader\Additions\FuzzyKeyMemoryCache.cs" Line="1" Column="1" />
-      <File FileName="UniversalImageLoader\Additions\LimitedAgeMemoryCache.cs" Line="1" Column="1" />
-      <File FileName="UniversalImageLoader\Additions\LinkedBlockingDeque.cs" Line="1" Column="1" />
+      <File FileName="UniversalImageLoader\packages.config" Line="1" Column="1" />
+      <File FileName="UniversalImageLoader\package.builder.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -14,7 +14,4 @@ Global
 		{B3A4FC42-23FD-4AD3-89EF-1265A2032ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A4FC42-23FD-4AD3-89EF-1265A2032ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = UniversalImageLoader\UniversalImageLoader.csproj
-	EndGlobalSection
 EndGlobal
